@@ -1,143 +1,170 @@
-                                    body {
-                                    font-family: 'Roboto', sans-serif;
-                                    background-color: #ffffff;
-                                    color: #212121;
-                                }
-                                
-                                a {
-                                    text-decoration: none;
-                                    color: initial;
-                                }
-                                
-                                button {
-                                    cursor: pointer;
-                                    border: none;
-                                    outline: none;
-                                    background-color: none;
-                                    font-family: inherit;
-                                    font-weight: 500;
-                                    font-size: 16px;
-                                    line-height: 1.62;
-                                    letter-spacing: 0.03em;
-                                    border-radius: 4px;
-                                }
-                                
-                                button:hover,
-                                button:focus {
-                                    background-color: #2196f3;
-                                    color: #ffffff;
-                                    ;
-                                }
-                                
-                                li {
-                                    list-style: none;
-                                }
-                                
-                                h3 {
-                                    font-weight: 700;
-                                    font-size: 14px;
-                                    line-height: 1.14;
-                                    letter-spacing: 0.03em;
-                                    text-transform: uppercase;
-                                }
-                                
-                                address {
-                                    font-style: normal;
-                                }
-                                /* Logo */
-                                
-                                .logo {
-                                    font-family: 'Raleway', sans-serif;
-                                    font-weight: 700;
-                                    font-size: 26px;
-                                    line-height: 1.19;
-                                    letter-spacing: 0.03em;
-                                }
-                                
-                                footer {
-                                    background-color: #2f303a;
-                                }
-                                
-                                footer address {
-                                    font-size: 14px;
-                                    line-height: 1.71;
-                                    letter-spacing: 0.03em;
-                                    color: ffffff;
-                                }
-                                
-                                .web {
-                                    color: #2196f3;
-                                }
-                                /* Nav */
-                                
-                                .nav-list {
-                                    font-weight: 500;
-                                    font-size: 14px;
-                                    line-height: 1.14;
-                                    letter-spacing: 0.02em;
-                                }
-                                
-                                .nav-list:hover,
-                                .nav-list:focus {
-                                    color: #2196f3;
-                                }
-                                
-                                .nav-list-address {
-                                    color: #757575;
-                                }
-                                
-                                .nav-list-address:hover,
-                                .nav-list-address:focus {
-                                    color: #2196f3;
-                                    /* Hero */
-                                    .hero {
-                                        background-color: #2f303a;
-                                    }
-                                    .hero-text {
-                                        font-weight: 900;
-                                        font-size: 44px;
-                                        line-height: 1.36;
-                                        letter-spacing: 0.06em;
-                                        text-transform: uppercase;
-                                        text-align: center;
-                                        color: #ffffff;
-                                    }
-                                    /* Benefits */
-                                    .benefits {
-                                        display: none;
-                                    }
-                                    .benefits-title {
-                                        font-size: 14px;
-                                        line-height: 1.71;
-                                        letter-spacing: 0.03em;
-                                        color: #757575;
-                                    }
-                                    /* our-job */
-                                    .our-job {
-                                        font-weight: 700;
-                                        font-size: 36px;
-                                        line-height: 1.17;
-                                        text-align: center;
-                                        letter-spacing: 0.03em;
-                                    }
-                                    /* Our-team */
-                                    .our-team {
-                                        font-weight: 700;
-                                        font-size: 36px;
-                                        line-height: 1.17;
-                                        text-align: center;
-                                        letter-spacing: 0.03em;
-                                        text-transform: none;
-                                    }
-                                    .team-title {
-                                        font-weight: 500;
-                                        font-size: 16px;
-                                        line-height: 1.18;
-                                        letter-spacing: 0.03em;
-                                    }
-                                    .team-after-title {
-                                        font-size: 16px;
-                                        line-height: 1.18;
-                                        letter-spacing: 0.03em;
-                                        color: #757575;
-                                    }
+                                                            body {
+                                                                font-family: 'Roboto', sans-serif;
+                                                                background-color: #ffffff;
+                                                                color: #212121;
+                                                            }
+                                                            
+                                                            a {
+                                                                text-decoration: none;
+                                                                color: initial;
+                                                            }
+                                                            
+                                                            button {
+                                                                cursor: pointer;
+                                                                border: none;
+                                                                outline: none;
+                                                                background-color: none;
+                                                                font-family: inherit;
+                                                                font-weight: 500;
+                                                                font-size: 16px;
+                                                                line-height: 1.62;
+                                                                letter-spacing: 0.03em;
+                                                                border-radius: 4px;
+                                                            }
+                                                            
+                                                            button:hover,
+                                                            button:focus {
+                                                                background-color: #2196f3;
+                                                                color: #ffffff;
+                                                                ;
+                                                            }
+                                                            
+                                                            li {
+                                                                list-style: none;
+                                                            }
+                                                            
+                                                            .projects-title {
+                                                                font-weight: 700;
+                                                                font-size: 16px;
+                                                                line-height: 1.14;
+                                                                letter-spacing: 0.03em;
+                                                                text-transform: uppercase;
+                                                            }
+                                                            
+                                                            .projects-after-title {
+                                                                font-weight: 400;
+                                                                font-size: 14px;
+                                                                line-height: 1.16;
+                                                                /* identical to box height, or 187% */
+                                                                letter-spacing: 0.03em;
+                                                                color: #757575;
+                                                            }
+                                                            
+                                                            address {
+                                                                font-style: normal;
+                                                            }
+                                                            /* Logo */
+                                                            
+                                                            .logo {
+                                                                font-family: 'Raleway', sans-serif;
+                                                                font-weight: 700;
+                                                                font-size: 26px;
+                                                                line-height: 1.19;
+                                                                letter-spacing: 0.03em;
+                                                            }
+                                                            
+                                                            .logo-footer {
+                                                                color: #ffffff;
+                                                                font-family: 'Raleway', sans-serif;
+                                                                font-weight: 700;
+                                                                font-size: 26px;
+                                                                line-height: 1.19;
+                                                                letter-spacing: 0.03em;
+                                                            }
+                                                            
+                                                            footer {
+                                                                background-color: #2f303a;
+                                                            }
+                                                            
+                                                            footer address {
+                                                                font-size: 14px;
+                                                                line-height: 1.71;
+                                                                letter-spacing: 0.03em;
+                                                                color: ffffff;
+                                                            }
+                                                            
+                                                            .web {
+                                                                color: #2196f3;
+                                                            }
+                                                            /* Nav */
+                                                            
+                                                            .nav-list {
+                                                                font-weight: 500;
+                                                                font-size: 14px;
+                                                                line-height: 1.14;
+                                                                letter-spacing: 0.02em;
+                                                            }
+                                                            
+                                                            .nav-list:hover,
+                                                            .nav-list:focus {
+                                                                color: #2196f3;
+                                                            }
+                                                            
+                                                            .nav-list-address {
+                                                                color: #757575;
+                                                            }
+                                                            
+                                                            .nav-list-address:hover,
+                                                            .nav-list-address:focus {
+                                                                color: #2196f3;
+                                                            }
+                                                            /* Hero */
+                                                            
+                                                            .hero {
+                                                                background-color: #2f303a;
+                                                            }
+                                                            
+                                                            .hero-text {
+                                                                font-weight: 900;
+                                                                font-size: 44px;
+                                                                line-height: 1.36;
+                                                                letter-spacing: 0.06em;
+                                                                text-transform: uppercase;
+                                                                text-align: center;
+                                                                color: #ffffff;
+                                                            }
+                                                            /* Benefits */
+                                                            
+                                                            .benefits {
+                                                                display: none;
+                                                            }
+                                                            
+                                                            .benefits-title {
+                                                                font-size: 14px;
+                                                                line-height: 1.71;
+                                                                letter-spacing: 0.03em;
+                                                                color: #757575;
+                                                            }
+                                                            /* our-job */
+                                                            
+                                                            .our-job {
+                                                                font-weight: 700;
+                                                                font-size: 36px;
+                                                                line-height: 1.17;
+                                                                text-align: center;
+                                                                letter-spacing: 0.03em;
+                                                            }
+                                                            /* Our-team */
+                                                            
+                                                            .our-team {
+                                                                font-weight: 700;
+                                                                font-size: 36px;
+                                                                line-height: 1.17;
+                                                                text-align: center;
+                                                                letter-spacing: 0.03em;
+                                                                text-transform: none;
+                                                            }
+                                                            
+                                                            .team-title {
+                                                                font-weight: 500;
+                                                                font-size: 16px;
+                                                                line-height: 1.18;
+                                                                letter-spacing: 0.03em;
+                                                            }
+                                                            
+                                                            .team-after-title {
+                                                                font-size: 16px;
+                                                                line-height: 1.18;
+                                                                letter-spacing: 0.03em;
+                                                                color: #757575;
+                                                            }
